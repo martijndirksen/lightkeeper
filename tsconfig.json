@@ -1,0 +1,13 @@
+{
+  "display": "Node 18",
+  "compilerOptions": {
+    "lib": ["es2022"],
+    "module": "es2022",
+    "target": "es2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node"
+  }
+}
